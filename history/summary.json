@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zhix.in.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 628,
-    "timeDay": 387,
-    "timeWeek": 628,
-    "timeMonth": 628,
-    "timeYear": 628,
+    "uptime": "93.78%",
+    "uptimeDay": "64.74%",
+    "uptimeWeek": "93.78%",
+    "uptimeMonth": "93.78%",
+    "uptimeYear": "93.78%",
+    "time": 570,
+    "timeDay": 77,
+    "timeWeek": 570,
+    "timeMonth": 570,
+    "timeYear": 570,
     "dailyMinutesDown": {
-      "2022-12-26": 0
+      "2022-12-27": 40,
+      "2022-12-26": 468
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/workbene.com.ico",
     "slug": "workbene",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 519,
-    "timeDay": 298,
-    "timeWeek": 519,
-    "timeMonth": 519,
-    "timeYear": 519,
+    "uptime": "93.78%",
+    "uptimeDay": "64.74%",
+    "uptimeWeek": "93.78%",
+    "uptimeMonth": "93.78%",
+    "uptimeYear": "93.78%",
+    "time": 475,
+    "timeDay": 108,
+    "timeWeek": 475,
+    "timeMonth": 475,
+    "timeYear": 475,
     "dailyMinutesDown": {
-      "2022-12-26": 0
+      "2022-12-27": 40,
+      "2022-12-26": 468
     }
   },
   {
@@ -50,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 83,
-    "timeDay": 79,
-    "timeWeek": 83,
-    "timeMonth": 83,
-    "timeYear": 83,
+    "time": 93,
+    "timeDay": 165,
+    "timeWeek": 93,
+    "timeMonth": 93,
+    "timeYear": 93,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2345,
-    "timeDay": 1789,
-    "timeWeek": 2345,
-    "timeMonth": 2345,
-    "timeYear": 2345,
+    "time": 2255,
+    "timeDay": 1717,
+    "timeWeek": 2255,
+    "timeMonth": 2255,
+    "timeYear": 2255,
     "dailyMinutesDown": {}
   }
 ]
