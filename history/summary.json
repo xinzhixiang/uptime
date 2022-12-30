@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/zhix.in.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "94.71%",
+    "uptime": "95.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.46%",
-    "uptimeMonth": "94.71%",
-    "uptimeYear": "94.71%",
+    "uptimeMonth": "95.10%",
+    "uptimeYear": "95.10%",
     "time": 488,
     "timeDay": 254,
     "timeWeek": 417,
@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/workbene.com.ico",
     "slug": "workbene",
     "status": "up",
-    "uptime": "94.71%",
+    "uptime": "95.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.46%",
-    "uptimeMonth": "94.71%",
-    "uptimeYear": "94.71%",
+    "uptimeMonth": "95.10%",
+    "uptimeYear": "95.10%",
     "time": 438,
     "timeDay": 369,
     "timeWeek": 383,
@@ -66,7 +66,7 @@
     "url": "https://www.baidu.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.baidu.com.ico",
     "slug": "baidu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -77,6 +77,8 @@
     "timeWeek": 2228,
     "timeMonth": 2272,
     "timeYear": 2272,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-30": 0
+    }
   }
 ]
