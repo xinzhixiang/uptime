@@ -9,8 +9,8 @@ sites:
     url: https://workbene.com
   - name: Google
     url: https://www.google.com
-  - name: Baidu
-    url: https://www.baidu.com
+  - name: trycloudflare
+    url: https://parallel-months-mega-firefox.trycloudflare.com/?__theme=dark
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
