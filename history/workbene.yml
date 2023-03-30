@@ -1,7 +1,7 @@
 url: https://workbene.com
-status: up
-code: 200
-responseTime: 614
-lastUpdated: 2023-03-30T10:41:37.882Z
+status: down
+code: 502
+responseTime: 6881
+lastUpdated: 2023-03-30T15:51:03.646Z
 startTime: Wed Dec 21 2022 08:40:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
