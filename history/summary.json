@@ -4,9 +4,9 @@
     "url": "https://zhix.in",
     "icon": "https://icons.duckduckgo.com/ip3/zhix.in.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "98.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.56%",
@@ -16,6 +16,7 @@
     "timeMonth": 268,
     "timeYear": 1148,
     "dailyMinutesDown": {
+      "2023-07-07": 0,
       "2023-05-11": 63,
       "2023-04-17": 23,
       "2023-04-10": 16,
@@ -143,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 5161,
     "dailyMinutesDown": {
-      "2023-07-07": 52,
+      "2023-07-07": 277,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
