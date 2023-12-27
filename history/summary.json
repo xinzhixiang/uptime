@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zhix.in.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.11%",
+    "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "99.10%",
+    "uptimeYear": "99.20%",
     "time": 910,
-    "timeDay": 220,
-    "timeWeek": 320,
-    "timeMonth": 261,
-    "timeYear": 912,
+    "timeDay": 466,
+    "timeWeek": 370,
+    "timeMonth": 272,
+    "timeYear": 914,
     "dailyMinutesDown": {
       "2023-12-10": 86,
       "2023-11-18": 22,
@@ -58,8 +58,7 @@
       "2023-01-14": 83,
       "2023-01-07": 30,
       "2022-12-31": 92,
-      "2022-12-28": 53,
-      "2022-12-27": 139
+      "2022-12-28": 53
     }
   },
   {
@@ -68,16 +67,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/workbene.com.ico",
     "slug": "workbene",
     "status": "up",
-    "uptime": "94.61%",
+    "uptime": "94.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.67%",
-    "uptimeYear": "94.54%",
-    "time": 691,
-    "timeDay": 114,
-    "timeWeek": 135,
+    "uptimeMonth": "87.96%",
+    "uptimeYear": "94.63%",
+    "time": 690,
+    "timeDay": 119,
+    "timeWeek": 129,
     "timeMonth": 107,
-    "timeYear": 692,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2023-11-30": 989,
       "2023-11-29": 1440,
@@ -130,8 +129,7 @@
       "2023-01-07": 22,
       "2023-01-01": 179,
       "2022-12-31": 1261,
-      "2022-12-28": 53,
-      "2022-12-27": 139
+      "2022-12-28": 53
     }
   },
   {
@@ -146,9 +144,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 67,
-    "timeWeek": 88,
-    "timeMonth": 80,
+    "timeDay": 85,
+    "timeWeek": 90,
+    "timeMonth": 81,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2023-10-16": 17,
@@ -172,7 +170,8 @@
     "timeMonth": 0,
     "timeYear": 5161,
     "dailyMinutesDown": {
-      "2023-12-26": 36,
+      "2023-12-27": 36,
+      "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
