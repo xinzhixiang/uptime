@@ -8,13 +8,13 @@
     "uptime": "98.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.58%",
+    "uptimeMonth": "99.34%",
     "uptimeYear": "98.99%",
     "time": 883,
-    "timeDay": 559,
-    "timeWeek": 396,
-    "timeMonth": 423,
-    "timeYear": 915,
+    "timeDay": 495,
+    "timeWeek": 428,
+    "timeMonth": 425,
+    "timeYear": 911,
     "dailyMinutesDown": {
       "2024-01-18": 84,
       "2024-01-02": 240,
@@ -55,8 +55,7 @@
       "2023-02-13": 44,
       "2023-02-06": 151,
       "2023-02-05": 295,
-      "2023-02-04": 107,
-      "2023-02-02": 19
+      "2023-02-04": 107
     }
   },
   {
@@ -65,16 +64,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/workbene.com.ico",
     "slug": "workbene",
     "status": "up",
-    "uptime": "95.08%",
+    "uptime": "95.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "94.94%",
-    "time": 660,
-    "timeDay": 160,
+    "time": 659,
+    "timeDay": 148,
     "timeWeek": 118,
-    "timeMonth": 170,
-    "timeYear": 681,
+    "timeMonth": 173,
+    "timeYear": 680,
     "dailyMinutesDown": {
       "2024-01-17": 15,
       "2024-01-05": 94,
@@ -121,8 +120,7 @@
       "2023-02-10": 18,
       "2023-02-06": 151,
       "2023-02-05": 295,
-      "2023-02-04": 107,
-      "2023-02-02": 19
+      "2023-02-04": 107
     }
   },
   {
@@ -137,9 +135,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 158,
-    "timeWeek": 83,
-    "timeMonth": 92,
+    "timeDay": 94,
+    "timeWeek": 89,
+    "timeMonth": 94,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2023-10-16": 17,
@@ -163,7 +161,8 @@
     "timeMonth": 0,
     "timeYear": 5161,
     "dailyMinutesDown": {
-      "2024-02-01": 37,
+      "2024-02-02": 36,
+      "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
