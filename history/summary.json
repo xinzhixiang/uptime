@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 492,
-    "timeDay": 478,
-    "timeWeek": 378,
-    "timeMonth": 396,
+    "timeDay": 382,
+    "timeWeek": 347,
+    "timeMonth": 399,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2024-09-21": 16,
@@ -34,14 +34,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/workbene.com.ico",
     "slug": "workbene",
     "status": "up",
-    "uptime": "97.06%",
+    "uptime": "97.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.95%",
     "time": 128,
-    "timeDay": 180,
-    "timeWeek": 116,
+    "timeDay": 150,
+    "timeWeek": 117,
     "timeMonth": 132,
     "timeYear": 130,
     "dailyMinutesDown": {
@@ -76,9 +76,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 118,
-    "timeDay": 112,
-    "timeWeek": 102,
+    "time": 117,
+    "timeDay": 84,
+    "timeWeek": 103,
     "timeMonth": 119,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -102,7 +102,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-02": 48,
+      "2024-11-03": 53,
+      "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
@@ -465,8 +466,7 @@
       "2023-11-08": 1440,
       "2023-11-07": 1440,
       "2023-11-06": 1440,
-      "2023-11-05": 1440,
-      "2023-11-04": 1440
+      "2023-11-05": 1440
     }
   }
 ]
