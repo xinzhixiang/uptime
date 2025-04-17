@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zhix.in.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "97.05%",
+    "uptime": "96.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "32.71%",
-    "uptimeYear": "94.34%",
+    "uptimeMonth": "29.43%",
+    "uptimeYear": "94.06%",
     "time": 512,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 475,
-    "timeYear": 530,
+    "timeMonth": 493,
+    "timeYear": 507,
     "dailyMinutesDown": {
-      "2025-04-16": 55,
+      "2025-04-17": 54,
+      "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -50,18 +51,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/workbene.com.ico",
     "slug": "workbene",
     "status": "down",
-    "uptime": "79.79%",
+    "uptime": "79.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.61%",
+    "uptimeYear": "58.34%",
     "time": 133,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2025-04-16": 55,
+      "2025-04-17": 54,
+      "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -228,10 +230,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 115,
-    "timeDay": 110,
-    "timeWeek": 102,
+    "timeDay": 79,
+    "timeWeek": 100,
     "timeMonth": 116,
-    "timeYear": 125,
+    "timeYear": 124,
     "dailyMinutesDown": {
       "2024-05-01": 36
     }
@@ -253,7 +255,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-16": 55,
+      "2025-04-17": 54,
+      "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -616,8 +619,7 @@
       "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
-      "2024-04-18": 1440,
-      "2024-04-17": 1440
+      "2024-04-18": 1440
     }
   }
 ]
