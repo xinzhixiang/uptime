@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zhix.in.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "87.72%",
+    "uptime": "87.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "69.68%",
+    "uptimeYear": "69.41%",
     "time": 544,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 547,
+    "timeYear": 548,
     "dailyMinutesDown": {
-      "2025-07-15": 63,
+      "2025-07-16": 62,
+      "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
@@ -140,18 +141,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/workbene.com.ico",
     "slug": "workbene",
     "status": "down",
-    "uptime": "72.13%",
+    "uptime": "72.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "33.95%",
+    "uptimeYear": "33.68%",
     "time": 130,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2025-07-15": 63,
+      "2025-07-16": 62,
+      "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
@@ -408,10 +410,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 78,
-    "timeWeek": 101,
-    "timeMonth": 115,
-    "timeYear": 124,
+    "timeDay": 86,
+    "timeWeek": 91,
+    "timeMonth": 112,
+    "timeYear": 123,
     "dailyMinutesDown": {
       "2025-07-06": 19
     }
@@ -433,7 +435,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-15": 63,
+      "2025-07-16": 62,
+      "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
@@ -796,8 +799,7 @@
       "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
-      "2024-07-17": 1440,
-      "2024-07-16": 1440
+      "2024-07-17": 1440
     }
   }
 ]
