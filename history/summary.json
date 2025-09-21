@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zhix.in.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "81.87%",
+    "uptime": "81.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.38%",
+    "uptimeYear": "51.10%",
     "time": 539,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 449,
     "dailyMinutesDown": {
-      "2025-09-20": 51,
+      "2025-09-21": 58,
+      "2025-09-20": 1440,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
@@ -194,8 +195,7 @@
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
-      "2025-03-26": 619,
-      "2024-09-21": 16
+      "2025-03-26": 619
     }
   },
   {
@@ -204,16 +204,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/workbene.com.ico",
     "slug": "workbene",
     "status": "up",
-    "uptime": "68.44%",
+    "uptime": "68.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "35.29%",
+    "uptimeMonth": "38.60%",
     "uptimeYear": "18.70%",
-    "time": 206,
-    "timeDay": 924,
-    "timeWeek": 1328,
-    "timeMonth": 1264,
-    "timeYear": 345,
+    "time": 210,
+    "timeDay": 980,
+    "timeWeek": 1318,
+    "timeMonth": 1244,
+    "timeYear": 358,
     "dailyMinutesDown": {
       "2025-09-08": 1036,
       "2025-09-07": 1440,
@@ -524,12 +524,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 119,
-    "timeDay": 95,
-    "timeWeek": 98,
-    "timeMonth": 116,
+    "timeDay": 81,
+    "timeWeek": 99,
+    "timeMonth": 106,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2025-08-20": 17,
@@ -553,7 +553,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-20": 51,
+      "2025-09-21": 58,
+      "2025-09-20": 1440,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
@@ -916,8 +917,7 @@
       "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
-      "2024-09-22": 1440,
-      "2024-09-21": 1440
+      "2024-09-22": 1440
     }
   }
 ]
