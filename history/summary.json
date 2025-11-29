@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zhix.in.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "76.60%",
+    "uptime": "76.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.47%",
-    "time": 564,
+    "uptimeYear": "32.20%",
+    "time": 565,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 478,
+    "timeYear": 477,
     "dailyMinutesDown": {
-      "2025-11-28": 55,
+      "2025-11-29": 56,
+      "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -272,16 +273,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/workbene.com.ico",
     "slug": "workbene",
     "status": "up",
-    "uptime": "70.29%",
+    "uptime": "70.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.73%",
-    "uptimeYear": "21.48%",
-    "time": 567,
-    "timeDay": 2565,
-    "timeWeek": 1198,
+    "uptimeYear": "21.76%",
+    "time": 572,
+    "timeDay": 1077,
+    "timeWeek": 1197,
     "timeMonth": 1115,
-    "timeYear": 1106,
+    "timeYear": 1105,
     "dailyMinutesDown": {
       "2025-11-19": 94,
       "2025-11-13": 50,
@@ -570,8 +571,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   },
   {
@@ -588,7 +588,7 @@
     "time": 129,
     "timeDay": 82,
     "timeWeek": 79,
-    "timeMonth": 146,
+    "timeMonth": 147,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2025-10-27": 20,
@@ -613,7 +613,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-28": 55,
+      "2025-11-29": 56,
+      "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -976,8 +977,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   }
 ]
