@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zhix.in.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "75.85%",
+    "uptime": "75.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "29.57%",
-    "time": 572,
+    "uptimeYear": "29.46%",
+    "time": 573,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 490,
+    "timeYear": 486,
     "dailyMinutesDown": {
-      "2025-12-08": 946,
+      "2025-12-09": 58,
+      "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
@@ -282,16 +283,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/workbene.com.ico",
     "slug": "workbene",
     "status": "up",
-    "uptime": "70.58%",
+    "uptime": "70.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.73%",
-    "uptimeYear": "24.39%",
-    "time": 613,
-    "timeDay": 1053,
-    "timeWeek": 992,
-    "timeMonth": 1102,
-    "timeYear": 1095,
+    "uptimeYear": "24.50%",
+    "time": 616,
+    "timeDay": 826,
+    "timeWeek": 956,
+    "timeMonth": 1097,
+    "timeYear": 1092,
     "dailyMinutesDown": {
       "2025-11-19": 94,
       "2025-11-13": 50,
@@ -570,8 +571,7 @@
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
-      "2024-12-10": 1440,
-      "2024-12-09": 1440
+      "2024-12-10": 1440
     }
   },
   {
@@ -581,17 +581,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 120,
-    "timeDay": 237,
-    "timeWeek": 152,
+    "timeDay": 240,
+    "timeWeek": 154,
     "timeMonth": 162,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-12-08": 12,
       "2025-10-27": 20,
       "2025-08-20": 17,
       "2025-07-06": 19
@@ -614,7 +613,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-08": 946,
+      "2025-12-09": 59,
+      "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
@@ -977,8 +977,7 @@
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
-      "2024-12-10": 1440,
-      "2024-12-09": 1440
+      "2024-12-10": 1440
     }
   }
 ]
