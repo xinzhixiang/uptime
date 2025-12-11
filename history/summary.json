@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zhix.in.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "75.75%",
+    "uptime": "75.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "29.19%",
-    "time": 573,
+    "uptimeYear": "28.91%",
+    "time": 575,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 488,
+    "timeYear": 487,
     "dailyMinutesDown": {
-      "2025-12-10": 60,
+      "2025-12-11": 61,
+      "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -284,15 +285,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/workbene.com.ico",
     "slug": "workbene",
     "status": "up",
-    "uptime": "70.62%",
+    "uptime": "70.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.73%",
-    "uptimeYear": "24.77%",
-    "time": 619,
-    "timeDay": 804,
-    "timeWeek": 916,
-    "timeMonth": 1091,
+    "uptimeMonth": "94.22%",
+    "uptimeYear": "25.05%",
+    "time": 624,
+    "timeDay": 1043,
+    "timeWeek": 952,
+    "timeMonth": 1089,
     "timeYear": 1089,
     "dailyMinutesDown": {
       "2025-11-19": 94,
@@ -570,8 +571,7 @@
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
-      "2024-12-12": 1440,
-      "2024-12-11": 1440
+      "2024-12-12": 1440
     }
   },
   {
@@ -586,8 +586,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 120,
-    "timeDay": 108,
-    "timeWeek": 134,
+    "timeDay": 85,
+    "timeWeek": 135,
     "timeMonth": 163,
     "timeYear": 123,
     "dailyMinutesDown": {
@@ -613,7 +613,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-10": 60,
+      "2025-12-11": 61,
+      "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -976,8 +977,7 @@
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
-      "2024-12-12": 1440,
-      "2024-12-11": 1440
+      "2024-12-12": 1440
     }
   }
 ]
