@@ -9,14 +9,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "28.12%",
-    "time": 575,
+    "uptimeYear": "28.09%",
+    "time": 577,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 492,
+    "timeYear": 491,
     "dailyMinutesDown": {
-      "2025-12-13": 1320,
+      "2025-12-14": 65,
+      "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -287,18 +288,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/workbene.com.ico",
     "slug": "workbene",
     "status": "down",
-    "uptime": "70.51%",
+    "uptime": "70.50%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "66.96%",
-    "uptimeMonth": "92.18%",
+    "uptimeWeek": "65.13%",
+    "uptimeMonth": "91.76%",
     "uptimeYear": "25.20%",
-    "time": 642,
+    "time": 645,
     "timeDay": 0,
-    "timeWeek": 1023,
-    "timeMonth": 1082,
+    "timeWeek": 1071,
+    "timeMonth": 1083,
     "timeYear": 1094,
     "dailyMinutesDown": {
-      "2025-12-13": 1320,
+      "2025-12-14": 65,
+      "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 571,
       "2025-11-19": 94,
@@ -573,8 +575,7 @@
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
-      "2024-12-15": 1440,
-      "2024-12-14": 1440
+      "2024-12-15": 1440
     }
   },
   {
@@ -584,17 +585,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 121,
     "timeDay": 241,
-    "timeWeek": 181,
-    "timeMonth": 146,
+    "timeWeek": 180,
+    "timeMonth": 144,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2025-12-13": 7,
       "2025-10-27": 20,
       "2025-08-20": 17,
       "2025-07-06": 19
@@ -617,7 +617,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-13": 1320,
+      "2025-12-14": 65,
+      "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -980,8 +981,7 @@
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
-      "2024-12-15": 1440,
-      "2024-12-14": 1440
+      "2024-12-15": 1440
     }
   }
 ]
