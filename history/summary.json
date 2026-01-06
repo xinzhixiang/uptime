@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zhix.in.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "73.98%",
+    "uptime": "73.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "22.06%",
+    "uptimeYear": "21.79%",
     "time": 470,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 522,
+    "timeYear": 523,
     "dailyMinutesDown": {
-      "2026-01-05": 67,
+      "2026-01-06": 62,
+      "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
@@ -310,18 +311,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/workbene.com.ico",
     "slug": "workbene",
     "status": "down",
-    "uptime": "69.11%",
+    "uptime": "69.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "19.65%",
+    "uptimeMonth": "16.37%",
     "uptimeYear": "25.20%",
-    "time": 713,
+    "time": 717,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1027,
+    "timeMonth": 1023,
     "timeYear": 1094,
     "dailyMinutesDown": {
-      "2026-01-05": 68,
+      "2026-01-06": 62,
+      "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
@@ -596,8 +598,7 @@
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
-      "2025-01-07": 1440,
-      "2025-01-06": 1440
+      "2025-01-07": 1440
     }
   },
   {
@@ -612,9 +613,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 133,
-    "timeDay": 5563,
-    "timeWeek": 890,
-    "timeMonth": 263,
+    "timeDay": 79,
+    "timeWeek": 885,
+    "timeMonth": 264,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2025-12-28": 16,
@@ -641,7 +642,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-05": 68,
+      "2026-01-06": 62,
+      "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
@@ -1004,8 +1006,7 @@
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
-      "2025-01-07": 1440,
-      "2025-01-06": 1440
+      "2025-01-07": 1440
     }
   }
 ]
