@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zhix.in.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "69.13%",
+    "uptime": "69.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "0.69%",
-    "time": 463,
+    "uptimeYear": "0.42%",
+    "time": 462,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 824,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2026-03-24": 73,
+      "2026-03-25": 79,
+      "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -388,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/workbene.com.ico",
     "slug": "workbene",
     "status": "down",
-    "uptime": "64.57%",
+    "uptime": "64.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -399,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 1094,
     "dailyMinutesDown": {
-      "2026-03-24": 73,
+      "2026-03-25": 79,
+      "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -674,8 +676,7 @@
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
-      "2025-03-26": 1440,
-      "2025-03-25": 1440
+      "2025-03-26": 1440
     }
   },
   {
@@ -690,9 +691,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.94%",
     "time": 141,
-    "timeDay": 129,
+    "timeDay": 90,
     "timeWeek": 120,
-    "timeMonth": 132,
+    "timeMonth": 127,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2026-03-16": 68,
@@ -722,7 +723,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-24": 73,
+      "2026-03-25": 79,
+      "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -1085,8 +1087,7 @@
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
-      "2025-03-26": 1440,
-      "2025-03-25": 1440
+      "2025-03-26": 1440
     }
   }
 ]
